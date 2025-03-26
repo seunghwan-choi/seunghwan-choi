@@ -1,1 +1,2 @@
-# Hi! I'm Seunghwan Choi, a student working in computatoinal biology.
+# Seunghwan Choi
+Hi! I'm Seunghwan, a student working in computatoinal biology.
